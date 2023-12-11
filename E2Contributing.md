@@ -1,46 +1,58 @@
-# Ejercicio 
+# Exercise
 
-## Paso 1: Configurar el Repositorio en GitHub
+## Step 1: Set Up the GitHub Repository
 
-- Configuramos el github, nuestro repositorio para poder compartirlo.
+- Configure GitHub for our repository to enable sharing.
 
-![Permissions](./ActivitatGithub/capturas/captura%201.png)
+![Permissions](./capturas/captura%201.png)
 
-## Paso 2: Permitir Clonar a Otro Colaborador
+## Step 2: Allow Cloning for Another Collaborator
 
-- Invitamos a nuestro compañero de clase (David alegria).
+- Invite our classmate, David Alegria.
 
-![Permissions](./ActivitatGithub/capturas/2.png)
+![Permissions](./capturas/2.png)
 
-## Paso 3: Clonar el Repositorio Localmente
+## Step 3: Clone the Repository Locally
 
-- Descargamos Git Extensions.
+- Download Git Extensions.
 
-![Permissions](./ActivitatGithub/capturas/3.png)
+![Permissions](./capturas/3.png)
 
-- Una vez dentro de la aplicacion nos metemos en clone Github repository.
+- Once inside the application, go to "Clone Github repository."
 
-![Permissions](./ActivitatGithub/capturas/8.png)
+![Permissions](./capturas/8.png)
 
-- Metemos nuestro repositorio, para eso conseguimos un token de acceso, copiamos el link y ya tendriamos nuestro repositorio en Gitextensions.
+- Enter the repository information. To do this, obtain an access token, copy the link, and then clone the repository using Gitextensions.
 
-![Permissions](./ActivitatGithub/capturas/5.png)
+![Permissions](./capturas/5.png)
 
-- Elejimos nuestro archivo (ActivitaGitHub) i lo clonamos.
+- Choose our file (ActivitaGitHub) and clone it.
 
-![Permissions](./ActivitatGithub/capturas/9.png)
-- Elijimos la ubicacion de donde queremos poner nuestra copia.
+![Permissions](./capturas/9.png)
 
-![Permissions](./ActivitatGithub/capturas/6.png)
-![Permissions](./ActivitatGithub/capturas/7.png)
+- Choose the location where you want to place your copy.
 
--Para este punto ya tendremos el archivo clonado.
+![Permissions](./capturas/6.png)
+![Permissions](./capturas/7.png)
 
-![Permissions](./ActivitatGithub/capturas/4.png)
-## Paso 4: Agregar Archivo E2Contributing.md
+- At this point, we will have the cloned file.
 
-- Creamos un archivo `E2Contributing.md` y documentamos los pasos.
-- Creamos el documento Markdown en nuestra copia del archivo(ActivitatGithub) y documentamos el processo.
-![Permissions](./ActivitatGithub/capturas/10.png)
+![Permissions](./capturas/4.png)
 
+## Step 4: Add E2Contributing.md File
 
+- Create a file `E2Contributing.md` and document the steps.
+- Create the Markdown document in our copy of the file (ActivitatGithub) and document the process.
+
+![Permissions](./capturas/10.png)
+
+## Commit and Push the Changes
+
+- Commit the changes by clicking the commit button on the top toolbar.
+
+![Permissions](./capturas/11-1.png)
+
+- The files to be committed will be displayed. Click "Commit and Push" and enter "v1" in the commit message box.
+
+![Permissions](./capturas/11.png)
+![Permissions](./capturas/12.png)
