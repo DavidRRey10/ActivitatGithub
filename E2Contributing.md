@@ -56,3 +56,17 @@
 
 ![Permissions](./capturas/11.png)
 ![Permissions](./capturas/12.png)
+
+## Cloning David Alegria's Repository in Git Extensions
+
+![Permissions](./capturas/13.png)
+![Permissions](./capturas/14.png)
+
+- Folder with my name.
+
+![Permissions](./capturas/15.png)
+
+## Modifying index.html to Turn It into a Guide for Someone Learning Git from Scratch
+
+![Permissions](./capturas/16.png)
+
