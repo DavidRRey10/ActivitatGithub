@@ -70,3 +70,7 @@
 
 ![Permissions](./capturas/16.png)
 
+## We commit and push the changes to our colleague's repository.
+
+![Permissions](./capturas/17.png)
+![Permissions](./capturas/18.png)
