@@ -74,3 +74,7 @@
 
 ![Permissions](./capturas/17.png)
 ![Permissions](./capturas/18.png)
+
+## We do a pull to update our repository with the activity that our colleague has done.
+
+![Permissions](./capturas/20.png)
